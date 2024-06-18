@@ -16,7 +16,7 @@ https://german563.github.io/notebook/about/
 [german563@gmail.com](mailto:german563@gmail.com)
 
 
-## <center>PIERRICK E. HARNAY</center>
+## <center>Herman Goldberg</center>
 <center>Department of Marine Biology</center>
 <center>University of Haifa</center>
 <center>199 Aba Khoushy Ave. Mount Carmel, Haifa</center>
