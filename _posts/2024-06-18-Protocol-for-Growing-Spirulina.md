@@ -141,10 +141,5 @@ Add nutrients to maintain medium fertility:
 <br>
 *Figure 3: Extruded spirulina rods drying on a perforated tray.*
 
-## Scientific References
-- [Coral bleaching: the role of the host](https://www.sciencedirect.com/science/article/pii/S1874778715000454)
-- [Effects of spirulina on the immune system](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3136577/)
-- [Spirulina as a functional food: A review](https://www.sciencedirect.com/science/article/abs/pii/S0924224411002401)
-
 ## Online Protocol
 - [Protocol for the transformation and engineering of edible algae Arthrospira platensis to generate heterologous protein-expressing strains](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9929480/)
