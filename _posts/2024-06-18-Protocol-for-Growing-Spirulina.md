@@ -6,8 +6,6 @@ categories: Protocols
 tags: Algae, Spirulina, Toxicology
 ---
 
-# Protocol for Growing Spirulina
-
 ## Materials Needed
 **Water-tight, non-toxic container** (e.g., UV-resistant plastic film, concrete pond)  
 **Clean water or filtered potable water**  
