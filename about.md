@@ -3,21 +3,16 @@ layout: page
 title: About
 permalink: /about/
 ---
+I am a Master student in marine ecology in Haifa University. My project will be based on multiple stressors, global warming and anthropogenic pressures.
 
-I am using WhatsUp!
+More Information
+https://german563.github.io/notebook/about/
 
-### More Information
+Contact me
+german563@gmail.com
 
-
-
-### Contact me
-
-[Herman Goldberg](mailto:german563@gmail.com)
-
-
-## <center>Herman Goldberg</center>
-
-
+Herman Goldberg
+Department of Marine Biology University of Haifa 199 Aba Khoushy Ave. Mount Carmel, Haifa
 ### EDUCATION
 B.Sc- Environmental science, IIUEPS.
 ### Professional Experience
@@ -32,15 +27,6 @@ presentations.
  Analyzed extensive datasets for the &quot;Clean country&quot; project, assessing
 suitability for land reclamation initiatives.
 
- ### THESES, REPORTS AND PUBLICATIONS IN PREPARATION
-
-	   
-### SCHOLARSHIPS AND AWARDS
-
-
-### TEACHING AND EDUCATION
-
-
 ### CONFERENCE
  Organizer, Scientific Conference &quot;Ecology of Altai&quot; (2014)
 
@@ -50,4 +36,3 @@ Languages: English (Fluent), Russian (Native), Hebrew (Fluent)
  Proficient in data analysis and visualization tools
  Quick learner, capable of adapting to new programming languages and
 technologies
-
