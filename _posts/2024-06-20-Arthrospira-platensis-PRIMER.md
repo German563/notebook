@@ -1,103 +1,107 @@
----
-layout: post
-title: Arthrospira platensis PRIMER
-date: '2024-06-20'
-categories: Protocols
-tags: Primers
----
-PRIMER PICKING RESULTS FOR DQ185137.1 Arthrospira platensis HalA (halA) gene, complete cds
+# Primer Picking Results for DQ185137.1 Arthrospira platensis HalA (halA) Gene, Complete CDS
 
-Template masking not selected
-No mispriming library specified
+Template masking not selected  
+No mispriming library specified  
 Using 1-based sequence positions
-OLIGO            start  len      tm     gc%  any_th  3'_th hairpin seq 
-LEFT PRIMER         55   20   59.02   55.00    0.00   0.00    0.00 CGTCTGTGCGAAGAAGTACG
-RIGHT PRIMER       234   20   59.11   55.00    0.00   0.00    0.00 CATTTCCGGGGTTTTCAGGG
-SEQUENCE SIZE: 960
-INCLUDED REGION SIZE: 960
 
-PRODUCT SIZE: 180, PAIR ANY_TH COMPL: 0.00, PAIR 3'_TH COMPL: 0.00
+## Top Primer Pair
 
-    1 ATGCCCTACGATCGCGAAAAACAAGTCGCTATTGATGCCGTACTCGCCGCCTCCCGTCTG
-                                                            >>>>>>
+**Left Primer:**  
+- **Sequence:** `CGTCTGTGCGAAGAAGTACG`
+- **Start Position:** 55
+- **Length:** 20
+- **Tm:** 59.02°C
+- **GC%:** 55.00%
 
-   61 TGCGAAGAAGTACGACAAGCCATTCCCCCCGCTATGGAAAAAGGGGATAAAAGCCCTGTA
-      >>>>>>>>>>>>>>                                              
+**Right Primer:**  
+- **Sequence:** `CATTTCCGGGGTTTTCAGGG`
+- **Start Position:** 234
+- **Length:** 20
+- **Tm:** 59.11°C
+- **GC%:** 55.00%
 
-  121 ACTGTTGCCGATTTTGGTTCCCAGGCGATTATCTGTAAAGCTATCTCAGAAGCCTTCCCC
-                                                                  
+**Product Size:** 180 bp  
+**Pair Complementarity:** 0.00
 
-  181 GATGATCCGATAGTGGGAGAAGAAGATGCTACTACCCTGAAAACCCCGGAAATGGGGAAC
-                                        <<<<<<<<<<<<<<<<<<<<      
+## Additional Primer Pairs
 
-  241 AACCTGGAGAAAGTTACAGACTATGTTAAGAGTATTATACCTGATGCCACCCCTGAGCAA
-                                                                  
+### Pair 1
+**Left Primer:**  
+- **Sequence:** `AGAAGCCTTCCCCGATGATC`
+- **Start Position:** 168
+- **Length:** 20
+- **Tm:** 59.24°C
+- **GC%:** 55.00%
 
-  301 GTAACTGCTTGGATAGATCGCGGTAATGGCAGTGTGGGGGGACGATTTTGGACTCTAGAT
-                                                                  
+**Right Primer:**  
+- **Sequence:** `ACTGCCATTACCGCGATCTA`
+- **Start Position:** 333
+- **Length:** 20
+- **Tm:** 58.96°C
+- **GC%:** 50.00%
 
-  361 CCCATTGATGGCACTAAGGGGTTTTTACGAAAAGACCAATATGCGATCGCACTAGCCCTA
-                                                                  
+**Product Size:** 166 bp  
+**Pair Complementarity:** 0.00
 
-  421 ATTGAAAACGGGGAGGTTAAACTAGGAATTATGGGCTGTCCGGCTTATGCAATTGATGGA
-                                                                  
+### Pair 2
+**Left Primer:**  
+- **Sequence:** `CGCTATTGATGCCGTACTCG`
+- **Start Position:** 27
+- **Length:** 20
+- **Tm:** 58.95°C
+- **GC%:** 55.00%
 
-  481 GATATTCCCGGAATGTTGTTTGTGGCTGTGCGGGGGGAAGGGTCGATGAAAATGCCCTTT
-                                                                  
+**Right Primer:**  
+- **Sequence:** `GATCATCGGGGAAGGCTTCT`
+- **Start Position:** 187
+- **Length:** 20
+- **Tm:** 59.24°C
+- **GC%:** 55.00%
 
-  541 TCTACTGGGAAATTTACCCCGATTCAAGTGGTGAAAGCTGAAGATACCGCCAATATGCGC
-                                                                  
+**Product Size:** 161 bp  
+**Pair Complementarity:** 9.21
 
-  601 TTTGTGGAAAGCGTGGAAGCCGCCCACGGTGATCAATCCCGTCAAAATGCGATCGCTCAA
-                                                                  
+### Pair 3
+**Left Primer:**  
+- **Sequence:** `TCCCGGAATGTTGTTTGTGG`
+- **Start Position:** 486
+- **Length:** 20
+- **Tm:** 58.68°C
+- **GC%:** 50.00%
 
-  661 GCTGCGGGAATTACCTCCCCCTCGGTGCGGATGGACTCCCAAGCTAAATATGGGGTTGTA
-                                                                  
+**Right Primer:**  
+- **Sequence:** `GGTAATTCCCGCAGCTTGAG`
+- **Start Position:** 675
+- **Length:** 20
+- **Tm:** 58.98°C
+- **GC%:** 55.00%
 
-  721 GCATCAGGACAAGCGGCTTTATATCTGCGTCTTCCTTCTCCTAAATACCCCAATTACCGG
-                                                                  
+**Product Size:** 190 bp  
+**Pair Complementarity:** 0.00
 
-  781 GAAAATATTTGGGATCATGCCGCCGGGGCGATTGTCGTTGAAGAGGCCGGAGGTCGCGTC
-                                                                  
+### Pair 4
+**Left Primer:**  
+- **Sequence:** `ATCCCGTCAAAATGCGATCG`
+- **Start Position:** 636
+- **Length:** 20
+- **Tm:** 59.06°C
+- **GC%:** 50.00%
 
-  841 ACAGATATGTACGGGAAACCCCTAGATTTTGCTTCTAGTATTAAAATGGTAGACAATCGG
-                                                                  
+**Right Primer:**  
+- **Sequence:** `CGGCCTCTTCAACGACAATC`
+- **Start Position:** 829
+- **Length:** 20
+- **Tm:** 59.28°C
+- **GC%:** 55.00%
 
-  901 GGTATAGTGGTGAGTAATGGACTGATTCACGATCAGGTTTTATCTGCATTGAAATCATAA
-                                                                  
+**Product Size:** 194 bp  
+**Pair Complementarity:** 0.00
 
-KEYS (in order of precedence):
->>>>>> left primer
-<<<<<< right primer
+## Overall Primer Statistics
 
-ADDITIONAL OLIGOS
-                    start  len      tm     gc%  any_th  3'_th hairpin seq 
+- **Left Primers Considered:** 4379
+- **Right Primers Considered:** 4598
+- **Pairs Considered:** 991
+- **Pairs with Acceptable Product Size:** 6
 
- 1 LEFT PRIMER        168   20   59.24   55.00    0.00   0.00    0.00 AGAAGCCTTCCCCGATGATC
-   RIGHT PRIMER       333   20   58.96   50.00    8.23   0.00    0.00 ACTGCCATTACCGCGATCTA
-   PRODUCT SIZE: 166, PAIR ANY_TH COMPL: 0.00, PAIR 3'_TH COMPL: 0.00
-
- 2 LEFT PRIMER         27   20   58.95   55.00    0.00   0.00    0.00 CGCTATTGATGCCGTACTCG
-   RIGHT PRIMER       187   20   59.24   55.00   25.25   4.14    0.00 GATCATCGGGGAAGGCTTCT
-   PRODUCT SIZE: 161, PAIR ANY_TH COMPL: 9.21, PAIR 3'_TH COMPL: 9.21
-
- 3 LEFT PRIMER        486   20   58.68   50.00    0.73   0.00    0.00 TCCCGGAATGTTGTTTGTGG
-   RIGHT PRIMER       675   20   58.98   55.00    0.00   0.00    0.00 GGTAATTCCCGCAGCTTGAG
-   PRODUCT SIZE: 190, PAIR ANY_TH COMPL: 0.00, PAIR 3'_TH COMPL: 0.00
-
- 4 LEFT PRIMER        636   20   59.06   50.00   11.69  11.69    0.00 ATCCCGTCAAAATGCGATCG
-   RIGHT PRIMER       829   20   59.28   55.00    0.00   0.00    0.00 CGGCCTCTTCAACGACAATC
-   PRODUCT SIZE: 194, PAIR ANY_TH COMPL: 0.00, PAIR 3'_TH COMPL: 0.00
-
-Statistics
-         con   too    in    in   not          no    tm    tm   high  high  high        high      
-         sid  many   tar  excl    ok   bad    GC   too   too any_th 3'_th hair-  poly   end      
-        ered    Ns   get   reg   reg   GC% clamp   low  high  compl compl   pin     X  stab    ok
-Left    4379     0     0     0     0   301     0  1817   686      0     1    33   125     0  1416
-Right   4598     0     0     0     0   379     0  2068   649      0     0    19    73     0  1410
-Pair Stats:
-considered 991, unacceptable product size 985, primer in pair overlaps a primer in a better pair 126, ok 6
-libprimer3 release 2.4.0
-
-
-(primer3_results.cgi release 4.1.0)
+These primers were selected based on their melting temperature, GC content, and the absence of significant hairpin structures or dimer formations, ensuring high specificity and efficiency for PCR amplification.
