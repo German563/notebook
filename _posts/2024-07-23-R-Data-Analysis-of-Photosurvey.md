@@ -31,16 +31,10 @@ blockquote {
   font-style: italic;
   color: #8B0000;
 }
-/* 
-.heart {
-  font-size: 1.5em;
-  line-height: 1;
-  white-space: pre;
-} */
 
 </style>
 
-# The goal of this analysis is to investigate and comprehend how the presence of algae is influenced by seasons, depths, and years. The data was processed using R, and various statistical analyses were performed to determine the significance of these factors.
+The goal of this analysis is to investigate and comprehend how the presence of algae is influenced by seasons, depths, and years. The data was processed using R, and various statistical analyses were performed to determine the significance of these factors.
 
 ## Let's look at the presence of algae:
 
